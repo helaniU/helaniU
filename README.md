@@ -107,7 +107,6 @@
 <p align="center">
   <!-- Gradient Heatmap Contribution Graph -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=helaniU&background=fff0f6&border=ffb6e6&ring=ff69b4&fire=ffb6e6&currStreakLabel=c084fc&sideNums=ff69b4&sideLabels=c084fc&dates=ff69b4" 
-       alt="Helani's Contribution Streaks" 
        width="95%" />
 </p>
 
