@@ -95,26 +95,34 @@
 
 ---
 
-### 💫 Contribution Overview
+### 🌸 Modern Contribution Overview
 
 <p align="center">
-  <!-- Soft Gradient Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helaniU&bg_color=fff0f6&color=ff69b4&line=c084fc&point=ffb6e6&area=true&area_color=ffd6eb&hide_border=true" 
-       alt="Helani's Activity Graph" 
-       width="95%" />
+  <!-- 💖 Soft Gradient Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helaniU&bg_color=fff8fb&color=ff69b4&line=c084fc&point=f9a8d4&area=true&area_color=ffd6eb&hide_border=true" 
+       alt="Helani's Activity Graph"
+       style="border-radius: 16px; box-shadow: 0 4px 15px rgba(255,182,230,0.3);"
+       width="90%" />
 </p>
 
 <p align="center">
-  <!-- Gradient Heatmap Contribution Graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helaniU&background=fff0f6&border=ffb6e6&ring=ff69b4&fire=ffb6e6&currStreakLabel=c084fc&sideNums=ff69b4&sideLabels=c084fc&dates=ff69b4" 
-       width="95%" />
+  <!-- 💫 Elegant Streak Card (No Icons, Smaller Text) -->
+  <img src="https://streak-stats.demolab.com?user=helaniU&theme=default&hide_border=true&background=fff8fb&stroke=ffb6e6&ring=ff69b4&fire=ffb6e6&currStreakNum=ff69b4&sideNums=ff69b4&currStreakLabel=c084fc&sideLabels=c084fc&dates=ff69b4" 
+       alt="Helani's Contribution Streak"
+       style="border-radius: 12px; box-shadow: 0 2px 10px rgba(255,182,230,0.3);"
+       width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helaniU&theme=rose_pine" 
-       alt="Helani's Summary Card" 
-       width="95%" />
+  <!-- 🌷 Minimal Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helaniU&theme=github" 
+       alt="Helani's GitHub Summary"
+       style="border-radius: 12px; box-shadow: 0 2px 10px rgba(255,182,230,0.3);"
+       width="90%" />
 </p>
+
+
+
 
 ---
 
