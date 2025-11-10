@@ -106,8 +106,7 @@
 
 <p align="center">
   <!-- 💫 Minimal Streak Card (No Title, Smaller Text, Darker Theme) -->
-  <img src="https://streak-stats.demolab.com?user=helaniU&hide_border=true&background=1a0b1f&stroke=ffb6e6&ring=ff69b4&fire=f9a8d4&currStreakNum=ffb6e6&sideNums=ff69b4&currStreakLabel=ff69b4&sideLabels=f9a8d4&dates=ffb6e6" 
-       alt="Contribution Streaks"
+  <img src="https://streak-stats.demolab.com?user=helaniU&hide_border=true&background=1a0b1f&stroke=ffb6e6&ring=ff69b4&fire=f9a8d4&currStreakNum=ffb6e6&sideNums=ff69b4&currStreakLabel=ff69b4&sideLabels=f9a8d4&dates=ffb6e6"
        width="80%"
        style="border-radius: 12px; box-shadow: 0 2px 10px rgba(255,182,230,0.25);" />
 </p>
