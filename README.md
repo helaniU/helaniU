@@ -94,35 +94,31 @@
 
 
 ---
-
 ### 🌸 Modern Contribution Overview
 
 <p align="center">
-  <!-- 💖 Soft Gradient Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helaniU&bg_color=fff8fb&color=ff69b4&line=c084fc&point=f9a8d4&area=true&area_color=ffd6eb&hide_border=true" 
-       alt="Helani's Activity Graph"
-       style="border-radius: 16px; box-shadow: 0 4px 15px rgba(255,182,230,0.3);"
-       width="90%" />
+  <!-- 💖 Soft Gradient Activity Graph (Dark Mode Friendly) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helaniU&bg_color=1a0b1f&color=ffb6e6&line=ff69b4&point=f9a8d4&area=true&area_color=4b134f&hide_border=true" 
+       alt="Contribution Activity Graph"
+       width="90%"
+       style="border-radius: 16px; box-shadow: 0 4px 15px rgba(255,182,230,0.25);" />
 </p>
 
 <p align="center">
-  <!-- 💫 Elegant Streak Card (No Icons, Smaller Text) -->
-  <img src="https://streak-stats.demolab.com?user=helaniU&theme=default&hide_border=true&background=fff8fb&stroke=ffb6e6&ring=ff69b4&fire=ffb6e6&currStreakNum=ff69b4&sideNums=ff69b4&currStreakLabel=c084fc&sideLabels=c084fc&dates=ff69b4" 
-       alt="Helani's Contribution Streak"
-       style="border-radius: 12px; box-shadow: 0 2px 10px rgba(255,182,230,0.3);"
-       width="80%" />
+  <!-- 💫 Minimal Streak Card (No Title, Smaller Text, Darker Theme) -->
+  <img src="https://streak-stats.demolab.com?user=helaniU&hide_border=true&background=1a0b1f&stroke=ffb6e6&ring=ff69b4&fire=f9a8d4&currStreakNum=ffb6e6&sideNums=ff69b4&currStreakLabel=ff69b4&sideLabels=f9a8d4&dates=ffb6e6" 
+       alt="Contribution Streaks"
+       width="80%"
+       style="border-radius: 12px; box-shadow: 0 2px 10px rgba(255,182,230,0.25);" />
 </p>
 
 <p align="center">
-  <!-- 🌷 Minimal Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helaniU&theme=github" 
-       alt="Helani's GitHub Summary"
-       style="border-radius: 12px; box-shadow: 0 2px 10px rgba(255,182,230,0.3);"
-       width="90%" />
+  <!-- 🌷 Summary Card (Dark Minimal Theme) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helaniU&theme=tokyonight" 
+       alt="GitHub Summary Card"
+       width="90%"
+       style="border-radius: 12px; box-shadow: 0 2px 10px rgba(255,182,230,0.25);" />
 </p>
-
-
-
 
 ---
 
