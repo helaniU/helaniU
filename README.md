@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">💖 Hi there, I'm <span style="color:#ff69b4;">Helani Umesha Ambalangodage</span> 👋</h1>
-<h3 align="center">🎓 Computer Engineering Undergraduate | 💻 UI/UX Designer | 🌸 Frontend Developer | 🤖 AI & ML Enthusiast</h3>
+<h3 align="center">🎓 Computer Engineering Undergraduate | 💻 UI/UX Designer | 🌸 Frontend Developer | 🤖 AI & ML </h3>
 
 <p align="center">
   <a href="mailto:helaniuambalangodage@gmail.com">
@@ -92,6 +92,30 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=helaniU&theme=rose_pine&ring=ff69b4&fire=ffb6e6&currStreakLabel=ff69b4&background=282a36" alt="GitHub Streak" />
 </p>
 
+
+---
+
+### 💫 Contribution Overview
+
+<p align="center">
+  <!-- Soft Gradient Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helaniU&bg_color=fff0f6&color=ff69b4&line=c084fc&point=ffb6e6&area=true&area_color=ffd6eb&hide_border=true" 
+       alt="Helani's Activity Graph" 
+       width="95%" />
+</p>
+
+<p align="center">
+  <!-- Gradient Heatmap Contribution Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helaniU&background=fff0f6&border=ffb6e6&ring=ff69b4&fire=ffb6e6&currStreakLabel=c084fc&sideNums=ff69b4&sideLabels=c084fc&dates=ff69b4" 
+       alt="Helani's Contribution Streaks" 
+       width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helaniU&theme=rose_pine" 
+       alt="Helani's Summary Card" 
+       width="95%" />
+</p>
 
 ---
 
