@@ -81,9 +81,16 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📊 GitHub Stats & Languages
 
-<img src="https://ghchart.rshah.org/ffb6e6/helaniU" alt="Helani's GitHub Chart (Pink Theme)" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helaniU&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=282a36" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helaniU&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=ffffff&bg_color=282a36" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helaniU&theme=rose_pine&ring=ff69b4&fire=ffb6e6&currStreakLabel=ff69b4&background=282a36" alt="GitHub Streak" />
+</p>
 
 
 ---
